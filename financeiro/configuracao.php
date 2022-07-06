@@ -6,8 +6,8 @@
     $nome_adm = 'admin';
     
     // conexão banco de dados
-    $servidor = 'localhost';
-    $usuario ='root';
-    $senha ='';
-    $banco ='financeiro';
+    $servidor = 'us-cdbr-east-06.cleardb.net';
+    $usuario ='b36880f9b428f4';
+    $senha ='1b4af4d3';
+    $banco ='heroku_e3193f4d932b1ae';
 ?>
